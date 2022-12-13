@@ -1,0 +1,7 @@
+Concepto:
+
+El alcance que determina la accesibilidad de las variables.
+
+Tipos:
+Global
+functionBlock
